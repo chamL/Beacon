@@ -32,7 +32,7 @@ Prosjektet bruker en lokal fil Keys.plist for å lagre API-nøkler trygt.
 Denne filen er lagt til i .gitignore og er derfor ikke med i GitHub-repoet.
 Du må opprette den manuelt for at appen skal fungere.
 
-##Slik lager du Keys.plist:
+## Slik lager du Keys.plist:
 
 Gå til prosjektmappen i Xcode.
 
