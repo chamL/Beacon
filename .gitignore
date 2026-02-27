@@ -1,0 +1,25 @@
+
+# Xcode build files
+DerivedData/
+build/
+
+# User-specific settings
+*.xcuserdata
+*.xcuserstate
+
+# Swift Package Manager
+/.build/
+/Packages/
+/Package.resolved
+
+# CocoaPods
+/Pods/
+
+# Carthage
+/Carthage/
+
+# API keys (ikke last opp denne)
+Keys.plist
+
+# Misc
+.DS_Store
